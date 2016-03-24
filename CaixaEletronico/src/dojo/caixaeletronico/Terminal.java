@@ -1,6 +1,5 @@
 package dojo.caixaeletronico;
 public class Terminal {
-
 	
 	private int[] notas = {10,20,50,100};
 	
