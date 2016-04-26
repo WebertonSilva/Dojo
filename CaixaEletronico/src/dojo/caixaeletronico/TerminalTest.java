@@ -12,8 +12,7 @@ public class TerminalTest {
 	public void init(){
 		
 		tm = new Terminal();
-	}
-	
+	}	
 	
 	@Test
 	public void test10Reais() {
